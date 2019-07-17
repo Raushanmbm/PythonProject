@@ -27,3 +27,4 @@ for case in range(cases):
     N = N[1]
     A = list(map(int, input().split()))
     print(subarray_sum(N, A))
+
